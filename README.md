@@ -22,3 +22,5 @@ Chef Steps' advertising was effective enough to explain all of the features list
 
 ### Why it Matters
 Though Chef Steps is not a charitable company, we can look at their business model and see houw it could be turned into something that helps the world. Any simple, useful, and well designed product can be marketed in a similar way, and ideally a portion of the proceeds could be used charitibly. 
+
+Not only can companies use their profits to make the world a better place, but companies like these have loads of infulence on the general public. If we support more companies with a positive influence on the world, we can truely have a positive impact.
