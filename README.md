@@ -1,11 +1,11 @@
 ## KPFellows-Blog
 
 ### Product
+The Chef Steps Joule is a new sous vide cooking device and companion app that allows the user make delicious, professional style sous vide meals from the comfort of home. 
 ![Joule](https://github.com/connorkutz/KPFellows-Blog/raw/master/Joule.jpg)
-what it is
-app
+
+The design is compact and visually appeling, the cooking abilities are on par with most other sous vide cookers, but the main selling point of the Joule is the features that are included with the app.
 ![Joule App](https://github.com/connorkutz/KPFellows-Blog/raw/master/joule-app.jpg)
-design
 
 
 ### Ease of Use
