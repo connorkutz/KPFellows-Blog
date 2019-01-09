@@ -13,7 +13,7 @@ To make the Joule seem more user friendly, the user controls the cooking device 
 
 After connecting your cooking device to your phone's bluetooth and home's wifi, you are able to control and monitor cooking from anywhere with internet access. This is very useful for people who work during the day because it allows them to cook meals that would normally take all day. Just start heat the water and add the food and it will slow cook food up to 48 hours.
 
-The Joule's companion app also comes in handy when cooking by not only supplying recipies, but also giving a visual guide on how long to cook a cut of meat. Overall the features of an internet connected devices outweigh the drawbacks.
+The Joule's companion app also comes in handy when cooking by not only supplying recipies, but also giving a visual guide on how long to cook a cut of meat. Overall the features of an internet connected device outweigh the drawbacks.
 
 ### Marketing
 There are many other Sous Vide products on the market and the Chef Steps Joule is the most expensive. Still, none of the others are anywhere near as popular as the Joule, and I think this is due to their marketing.
