@@ -1,7 +1,10 @@
 ## KPFellows-Blog
 
 ### Product
+![Joule](https://github.com/connorkutz/KPFellows-Blog/raw/master/Joule.jpg)
 what it is
+app
+![Joule App](https://github.com/connorkutz/KPFellows-Blog/raw/master/joule-app.jpg)
 design
 
 
